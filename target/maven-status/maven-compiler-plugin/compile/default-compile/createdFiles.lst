@@ -1,0 +1,13 @@
+com\hendisantika\registrationlogindemo\config\WebSecurityConfig.class
+com\hendisantika\registrationlogindemo\controller\UserController.class
+com\hendisantika\registrationlogindemo\RegistrationLoginDemoApplication.class
+com\hendisantika\registrationlogindemo\service\UserServiceImpl.class
+com\hendisantika\registrationlogindemo\service\UserDetailsServiceImpl.class
+com\hendisantika\registrationlogindemo\model\User.class
+com\hendisantika\registrationlogindemo\service\SecurityService.class
+com\hendisantika\registrationlogindemo\validator\UserValidator.class
+com\hendisantika\registrationlogindemo\model\Role.class
+com\hendisantika\registrationlogindemo\service\UserService.class
+com\hendisantika\registrationlogindemo\repository\RoleRepository.class
+com\hendisantika\registrationlogindemo\service\SecurityServiceImpl.class
+com\hendisantika\registrationlogindemo\repository\UserRepository.class
